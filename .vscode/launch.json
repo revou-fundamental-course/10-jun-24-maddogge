@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "chrome",
+        "request": "launch",
+        "name": "Launch Temperature Converter",
+        "file": "index.html",
+        "webRoot": "${workspaceFolder}"
+      }
+    ]
+  }
